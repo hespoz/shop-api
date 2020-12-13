@@ -1,25 +1,25 @@
-#How to run the service
+# How to run the service
 
 ```
 yarn install
 yarn start
 ```
 
-#How to run the unit test
+# How to run the unit test
 
 ```
 yarn run test
 ```
 
-#How to query the API
+# How to query the API
 
-##Postman
+## Postman
 
 Just download the following collection using postman.
 
 https://www.getpostman.com/collections/f43d7696ec0c36e40f2f
 
-##Browser
+## Browser
 Or use the browser to consume the `popular` endpoint
 ```
 localhost:3000/popular
